@@ -1,7 +1,7 @@
 ## The unseen causes of depression
 
 ### Members of the group: 
-- Ivaana: data cleaning, visualization, concept and business eye. 
+- Ivanna: data cleaning, visualization, concept and business eye. 
 - Taho: data cleaning, machine learning, concept and humanitarian prespective. 
 - Valentina: data cleaning, machine learning, concept and development view. 
 
