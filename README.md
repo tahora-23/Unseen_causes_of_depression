@@ -27,27 +27,42 @@ Depression rates:
 https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimated-population-based-prevalence-of-depression
 
 #### Our X: 
+
 Democracy index: 
 https://worldpopulationreview.com/country-rankings/democracy-countries
+
 Gender gap
-	https://worldpopulationreview.com/country-rankings/gender-equality-by-country
+https://worldpopulationreview.com/country-rankings/gender-equality-by-country
 
-Air quality: https://www.iqair.com/world-most-polluted-countries 
 
-Literacy rate: https://data.worldbank.org/indicator/SE.ADT.LITR.ZS
+Air quality 
+https://www.iqair.com/world-most-polluted-countries 
+
+
+Literacy rate
+https://data.worldbank.org/indicator/SE.ADT.LITR.ZS
 https://www.kaggle.com/datasets/komalkhetlani/youth-and-adult-literacy-rate-around-the-globe 
-5. Demographic
+
+
+Demographic
 https://www.census.gov/data-tools/demo/idb/#/table?COUNTRY_YEAR=2023&COUNTRY_YR_ANIM=2023 
 https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
-6. Violent crime rate
+
+Violent crime rate
 https://worldpopulationreview.com/country-rankings/violent-crime-rates-by-country
 https://wisevoter.com/country-rankings/crime-rate-by-country/
-7. Household size
+
+
+Household size
 https://ceoworld.biz/2020/02/19/these-are-the-countries-with-the-largest-household-size/
-8. Social mobility 
+
+
+Social mobility 
 https://worldpopulationreview.com/country-rankings/social-mobility-by-country
-9. Public service index
+
+
+Public service index
 https://www.theglobaleconomy.com/rankings/public_services_index/
 
 
