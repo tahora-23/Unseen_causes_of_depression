@@ -1,5 +1,5 @@
 ,country,Family size
-0,Afghanistan (Islamic Republic of),8.04
+0,Afghanistan,8.04
 1,Albania,3.3
 2,Angola,4.82
 3,Argentina,3.26
@@ -36,7 +36,7 @@
 34,Cuba,3.14
 35,Cyprus,2.75
 36,Czech Republic,2.4
-37,Dem. Republic of the Congo,5.3
+37,DRC,5.3
 38,Dominican Republic,3.48
 39,Ecuador,3.78
 40,Egypt,4.13
@@ -156,9 +156,9 @@
 154,Turkey,4.07
 155,Uganda,4.53
 156,Ukraine,2.46
-157,United Arab Emirates,6.3
-158,United Kingdom,2.4
-159,United States,2.52
+157,UAE,6.3
+158,UK,2.4
+159,USA,2.52
 160,Uruguay,2.78
 161,Uzbekistan,5.24
 162,Venezuela,4.33
