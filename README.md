@@ -2,7 +2,7 @@
 
 ### Members of the group: 
 - Ivanna: data cleaning, visualization, concept and business eye. 
-- Taho: data cleaning, machine learning, concept and humanitarian prespective. 
+- Tahora: data cleaning, machine learning, concept and humanitarian prespective. 
 - Valentina: data cleaning, machine learning, concept and development view. 
 
 ### Goal of the project: 
@@ -97,5 +97,5 @@ Make presentations
 
 Day 5: 
 
-Be happy while talking about depression. 
+Presenting the findings. 
 
