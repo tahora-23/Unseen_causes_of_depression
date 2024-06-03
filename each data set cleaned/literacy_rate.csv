@@ -1,0 +1,209 @@
+,country,latestRate
+0,Afghanistan,38.168041
+1,Albania,97.553902
+2,Algeria,79.608398
+3,American Samoa,97.344162
+4,Andorra,100.0
+5,Angola,71.164162
+6,Anguilla,95.0
+7,Antigua and Barbuda,98.949997
+8,Argentina,98.089973
+9,Armenia,99.768417
+10,Aruba,97.5242
+11,Australia,99.0
+12,Austria,98.0
+13,Azerbaijan,99.80526
+14,Bahamas,95.599998
+15,Bahrain,95.717262
+16,Bangladesh,61.493832
+17,Barbados,99.699997
+18,Belarus,99.722038
+19,Belgium,99.0
+20,Belize,82.776817
+21,Benin,38.44714
+22,Bermuda,98.0
+23,Bhutan,63.906818
+24,Bolivia,95.141922
+25,Bosnia and Herzegovina,98.485764
+26,Botswana,88.224411
+27,Brazil,92.586807
+28,British Virgin Islands,97.800003
+29,Brunei,96.656532
+30,Bulgaria,98.38858
+31,Burkina Faso,37.7467
+32,Burundi,85.496094
+33,Cambodia,78.34594
+34,Cameroon,74.98558
+35,Canada,99.0
+36,Cape Verde,88.465424
+37,Cayman Islands,98.867821
+38,Central African Republic,36.752609
+39,Chad,40.018242
+40,Chile,96.627548
+41,China,96.357452
+42,Colombia,94.577057
+43,Comoros,78.13739
+44,Cook Islands,95.0
+45,Costa Rica,97.647247
+46,Croatia,99.272591
+47,Cuba,99.710716
+48,Cyprus,99.059776
+49,DRC,77.221672
+50,Denmark,99.0
+51,Djibouti,67.900002
+52,Dominica,94.0
+53,Dominican Republic,92.465424
+54,Ecuador,94.515472
+55,Egypt,75.842621
+56,El Salvador,87.648216
+57,Equatorial Guinea,95.195663
+58,Eritrea,73.845253
+59,Estonia,99.823509
+60,Eswatini,87.470192
+61,Ethiopia,49.031521
+62,Fiji,93.699997
+63,Finland,100.0
+64,France,99.0
+65,French Polynesia,98.0
+66,Gabon,83.237877
+67,Gambia,55.572762
+68,Georgia,99.759621
+69,Germany,99.0
+70,Ghana,76.575897
+71,Gibraltar,80.0
+72,Greece,95.29287
+73,Greenland,100.0
+74,Grenada,96.0
+75,Guam,99.78904
+76,Guatemala,79.074211
+77,Guinea,30.47279
+78,Guinea-Bissau,59.77285
+79,Guyana,87.535316
+80,Haiti,60.68935
+81,Honduras,88.424583
+82,Hong Kong,93.5
+83,Hungary,99.380882
+84,Iceland,99.0
+85,India,72.225304
+86,Indonesia,95.437683
+87,Iran,87.172531
+88,Iraq,79.721764
+89,Ireland,99.0
+90,Israel,97.099998
+91,Italy,99.015793
+92,Ivory Coast,43.26532
+93,Jamaica,88.499901
+94,Japan,99.0
+95,Jordan,98.014351
+96,Kazakhstan,99.787849
+97,Kenya,78.023399
+98,Kuwait,96.117706
+99,Kyrgyzstan,99.50132
+100,Laos,79.867462
+101,Latvia,99.892693
+102,Lebanon,94.051102
+103,Lesotho,79.360931
+104,Liberia,47.60014
+105,Libya,91.38887
+106,Liechtenstein,100.0
+107,Lithuania,99.82328
+108,Luxembourg,100.0
+109,Madagascar,64.656303
+110,Malawi,65.963829
+111,Malaysia,94.636993
+112,Maldives,99.321022
+113,Mali,33.068871
+114,Malta,94.066612
+115,Marshall Islands,98.265083
+116,Mauritania,52.123562
+117,Mauritius,90.616043
+118,Mexico,94.545593
+119,Micronesia,89.0
+120,Moldova,99.244392
+121,Monaco,99.0
+122,Mongolia,98.367638
+123,Montenegro,98.719948
+124,Montserrat,97.0
+125,Morocco,71.710548
+126,Mozambique,58.836552
+127,Myanmar,93.09005
+128,Namibia,90.820503
+129,Nepal,64.663643
+130,Netherlands,99.0
+131,New Caledonia,96.93782
+132,New Zealand,99.0
+133,Nicaragua,82.471848
+134,Niger,19.1026
+135,Nigeria,59.568081
+136,Niue,95.0
+137,North Macedonia,97.843758
+138,Northern Mariana Islands,97.0
+139,Norway,100.0
+140,Oman,93.971649
+141,Pakistan,56.440311
+142,Palau,99.523972
+143,Palestine,96.668037
+144,Panama,95.038231
+145,Papua New Guinea,63.433491
+146,Paraguay,95.53611
+147,Peru,94.374352
+148,Philippines,96.618027
+149,Poland,99.787422
+150,Portugal,95.428108
+151,Puerto Rico,93.329422
+152,Qatar,97.757088
+153,Romania,98.757027
+154,Russia,99.719566
+155,Rwanda,71.2435
+156,Saint Kitts and Nevis,97.800003
+157,Saint Lucia,90.099998
+158,Saint Pierre and Miquelon,99.0
+159,Saint Vincent and the Grenadines,95.632156
+160,Samoa,99.015007
+161,San Marino,96.0
+162,Sao Tome and Principe,91.747108
+163,Saudi Arabia,94.842369
+164,Senegal,55.624851
+165,Serbia,98.002892
+166,Seychelles,95.321083
+167,Sierra Leone,48.4319
+168,Singapore,96.774628
+169,Slovakia,99.599998
+170,Slovenia,99.71476
+171,Solomon Islands,84.099998
+172,Somalia,37.799999
+173,South Africa,94.597939
+174,South Korea,97.965942
+175,South Sudan,31.97625
+176,Spain,98.11451
+177,Sri Lanka,92.614166
+178,Sudan,58.601318
+179,Suriname,95.538986
+180,Sweden,99.0
+181,Switzerland,99.0
+182,Syria,86.303932
+183,Taiwan,96.099998
+184,Tajikistan,99.781052
+185,Tanzania,80.359497
+186,Thailand,93.983017
+187,Togo,66.53759
+188,Tonga,99.397858
+189,Trinidad and Tobago,98.969582
+190,Tunisia,81.054192
+191,Turkey,95.688103
+192,Turkmenistan,99.692932
+193,Turks and Caicos Islands,98.0
+194,Uganda,73.809837
+195,Ukraine,99.764107
+196,UAE,92.986366
+197,UK,99.0
+198,USA,99.0
+199,Uruguay,98.442101
+200,Uzbekistan,99.995193
+201,Vanuatu,85.058678
+202,Venezuela,95.399246
+203,Vietnam,94.514267
+204,Wallis and Futuna,50.0
+205,Yemen,69.961952
+206,Zambia,85.117264
+207,Zimbabwe,86.873482

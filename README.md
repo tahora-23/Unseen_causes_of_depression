@@ -58,10 +58,6 @@ Household size
 https://ceoworld.biz/2020/02/19/these-are-the-countries-with-the-largest-household-size/
 
 
-Social mobility 
-https://worldpopulationreview.com/country-rankings/social-mobility-by-country
-
-
 Public service index
 https://www.theglobaleconomy.com/rankings/public_services_index/
 
